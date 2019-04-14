@@ -6,4 +6,6 @@ Fitur yang ada pada aplikasi WAQTU ini :
   2. Melakukan absen dilokasi saja.
   3. Menampilkan Pengunjung, Mahasiswa, ataupun Dosen telah absen hari itu.
 
+Aplikasi ini menggunakan PWA yang memiliki admin yang diakses melalui Browser pada komputer.
+
 version 0.1
