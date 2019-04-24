@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings = webView.getSettings();
 
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("http://waqtu.epizy.com/?i=1");
+        webView.loadUrl("http://waqtu.000webhostapp.com/");
     }
 
     public class myWebclient extends WebViewClient{
