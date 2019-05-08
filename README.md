@@ -11,9 +11,9 @@ This application is used as an absent online based on Android, which is speciali
 ## Feature
 #### Feature in WAQTU app
 Available in this WAQTU application:
-  **1.** Choose to be absent as a Visitor, Student or Lecturer.
-  **2.** Do attendance at the location.
-  **3.** Showing Visitors, Students, or Lecturers has been absent that day.
+  * **1.** Choose to be absent as a Visitor, Student or Lecturer.
+  * **2.** Do attendance at the location.
+  * **3.** Showing Visitors, Students, or Lecturers has been absent that day.
 
 ## Used
 This application uses PWA which has an admin that is accessed via a browser on a computer.
