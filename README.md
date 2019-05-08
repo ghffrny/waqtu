@@ -4,7 +4,7 @@ WAQTU
 This application is used as an absent online based on Android, which is specialized for the attendance of Lampung University computer laboratories. And also it's using the Progressive Web App (PWA)
 
 ## Mookup
-![Mookup Android](https://drive.google.com/file/d/1RLPkFN7_KfpNvNDa_TZ2DLBfWOG0zKun/view?usp=sharing "Mookup app")
+![Mookup App](https://www.behance.net/gallery/79348863/WAQTU-Absent-Online "Mookup app")
 
 ## Feature
 #### Feature in WAQTU app
