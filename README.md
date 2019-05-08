@@ -3,7 +3,7 @@ WAQTU
 **WAQTU**
 This application is used as an absent online based on Android, which is specialized for the attendance of Lampung University computer laboratories. And also it's using the Progressive Web App (PWA)
 
-#### Screenshot
+## Screenshot
 ![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android")
 
 ![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
@@ -20,9 +20,6 @@ This application uses PWA which has an admin that is accessed via a browser on a
 
 ## Permissions
 * Use the connection on this app.
-
-## License 
-* see [LICENSE](https://github.com/username/appname/blob/master/LICENSE.md) file
 
 ## Version 
 * version 0.1
