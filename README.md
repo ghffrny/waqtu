@@ -1,19 +1,17 @@
 WAQTU
 ======
-**WAQTU**
+**Project Brief**
 This application is used as an absent online based on Android, which is specialized for the attendance of Lampung University computer laboratories. And also it's using the Progressive Web App (PWA)
 
-## Screenshot
-![Screenshot Android](http://url/screenshot-appname-android.png "screenshot Android")
-
-![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
+## Mookup
+![Mookup Android](https://drive.google.com/file/d/1RLPkFN7_KfpNvNDa_TZ2DLBfWOG0zKun/view?usp=sharing "Mookup app")
 
 ## Feature
 #### Feature in WAQTU app
 Available in this WAQTU application:
-  * **1.** Choose to be absent as a Visitor, Student or Lecturer.
-  * **2.** Do attendance at the location.
-  * **3.** Showing Visitors, Students, or Lecturers has been absent that day.
+  * Choose to be absent as a Visitor, Student or Lecturer.
+  * Do attendance at the location.
+  * Showing Visitors, Students, or Lecturers has been absent that day.
 
 ## Used
 This application uses PWA which has an admin that is accessed via a browser on a computer.
