@@ -31,5 +31,5 @@ This application uses PWA which has an admin that is accessed via a browser on a
 ghuffrony.rezaldhy1008@students.unila.ac.id
 jonathan.parhusip1012@students.unila.ac.id
 * Instagram:
-[@ghuffronyrezaldhyms](https://instagram/ghuffronyrezaldhyms "ghuffronyrezaldhyms on instagram")
-[@jajijujejo](https://instagram/jajijujejo "jajijujejo on instagram")
+[@ghuffronyrezaldhyms](https://www.instagram.com/ghuffronyrezaldhyms "ghuffronyrezaldhyms on instagram")
+[@jajijujejo](https://www.instagram.com/jajijujejo "jajijujejo on instagram")
