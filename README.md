@@ -1,6 +1,7 @@
 WAQTU
 ======
-**Project Brief**
+## Project Brief
+**WAQTU**
 This application is used as an absent online based on Android, which is specialized for the attendance of Lampung University computer laboratories. And also it's using the Progressive Web App (PWA)
 
 ## Mookup
